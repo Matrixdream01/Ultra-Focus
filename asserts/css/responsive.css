@@ -1,0 +1,3074 @@
+@media screen and (max-width:1920px) and (min-width:1441px) {
+
+    /*.organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        width: 402px;
+        height: 16px;
+        background-size: cover;
+
+    }
+
+    .reaching_inner .left .left_content:first-of-type,
+    .reaching_inner .left .left_content:nth-child(2),
+    .reaching_inner .left .left_content:nth-child(3) {
+        width: 46%;
+    }
+
+    .left_content p {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .reaching_inner .left .left_content {
+        padding: 19px 42px;
+    }
+
+    .reaching_inner .left .image {
+        width: 193.705px;
+        height: 255px;
+        margin-left: 15rem;
+        margin-top: -5.6rem;
+    }
+
+    .reaching_inner .right h1,
+    .reaching_inner .right p {
+        max-width: 71%;
+    }*/
+
+
+}
+
+/* 1430 */
+@media screen and (max-width:1430px) {
+
+    .pricing_inner .boxes .left .pricing_box .monthly h3,
+    .pricing_inner .boxes .left .pricing_box .monthly ul li {
+        font-size: 27px;
+        line-height: 26px;
+        column-gap: 12px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly ul .currant {
+        font-size: 39px;
+        line-height: 43px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly h3 span {
+        font-size: 13px;
+        line-height: 15px;
+        padding: 9px 12px 7px 12px;
+    }
+}
+
+/* 1426 */
+@media screen and (max-width:1423px) {
+    .reaching_inner .left .left_content {
+        width: 42.5%;
+    }
+
+    .reaching_inner .left .image {
+        margin-left: 10.5rem;
+        margin-top: -4.9rem;
+    }
+}
+
+/* 1405 */
+@media screen and (max-width:1405px) {
+
+
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 43.5%;
+    }
+
+}
+
+/* 1400 */
+@media screen and (max-width:1400px) {
+
+    .plans .boxes .box {
+        padding: 0px 37px 20px 37px;
+    }
+
+    .accountability_inner .boxes .box {
+        width: 24.3%;
+    }
+
+    .accountability_inner .boxes .box:last-of-type {
+        padding-right: 30px;
+    }
+}
+
+/* 1380 */
+@media screen and (max-width:1380px) {
+    .plans .boxes .box {
+        padding: 0px 30px 20px 30px;
+    }
+}
+
+/* 1366 */
+@media screen and (max-width:1366px) {
+    h1 {
+        font-size: 48px;
+        line-height: 54px;
+    }
+
+    p {
+        font-size: 21px;
+        line-height: 27px;
+    }
+
+    .results .boxes .box p {
+        text-align: center;
+    }
+
+    .same_btn {
+        padding: 13px 37px;
+    }
+
+    .banner {
+        padding: 75px 0px 340px 0px;
+    }
+
+    .banner_inner {
+        row-gap: 10px;
+    }
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        left: -38%;
+        width: 247px;
+        background-size: contain;
+    }
+
+    .organized_inner .box:nth-child(2)::after {
+        left: 71%;
+    }
+
+    .organized,
+    .reaching,
+    .process,
+    .results,
+    .plans,
+    .testimonials,
+    .clarity,
+    .questions,
+    .matrix,
+    .reality,
+    .process-inner .boxes {
+        margin-top: 75px;
+    }
+
+    .reaching,
+    .accountability,
+    .plans,
+    .pricing,
+    .matrix,
+    .reality {
+        padding: 75px 0px;
+    }
+
+    .left_content p {
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 44%;
+    }
+
+    .banner_inner .same_btn {
+        padding: 13px 44px;
+    }
+
+    .reaching_inner .left .image {
+        margin-left: 8.5rem;
+        margin-top: -4.4rem;
+    }
+
+    .process-inner .boxes .box .left h4 {
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+    .process-inner .boxes .box .left h3 {
+        margin-top: 12px;
+        font-size: 28px;
+        line-height: 33px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container {
+        padding: 17px;
+        font-size: 10px;
+        line-height: 177.023%;
+    }
+
+    .calendar-day {
+        height: 51px;
+        padding-top: 27px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links li a img {
+        width: 28px;
+        height: 28px;
+    }
+
+
+    .accountability_inner .boxes .box {
+        width: 23.3%;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links li a {
+        width: 53px;
+        height: 53px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investors li a {
+        column-gap: 7px;
+        font-size: 13px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investors li a {
+        column-gap: 7px;
+        font-size: 13px;
+        padding: 11px 14px;
+    }
+
+    .process-inner .boxes {
+        row-gap: 100px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right .message h6 {
+        font-size: 14px;
+        border-radius: 10px 10px 10px 0px;
+        padding: 13px 15px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right .message {
+        margin-top: 13px;
+        max-width: 48%;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet img {
+        width: 25.925px;
+        height: 25.444px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        column-gap: 13px;
+        width: 56.4%;
+        top: 0px;
+        right: -61px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet p {
+        margin-top: 2px;
+    }
+
+    .process-inner .boxes .box .message_box {
+        padding: 0px 22px;
+        margin-top: 9px;
+    }
+
+    .process-inner .boxes .box .message_box input {
+        font-size: 14px;
+        padding: 15px 26px 15px 0px;
+    }
+
+    .process-inner .boxes .box .message_box a {
+        margin-right: -11px;
+        width: 42px;
+        height: 39px;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right {
+        padding: 26px 23px 16px 23px;
+    }
+
+    .btns {
+        row-gap: 12px;
+        margin-top: 75px;
+    }
+
+    .accountability {
+        margin-top: 90px;
+    }
+
+    .process-inner .boxes .box .message_box a svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    .accountability_inner .boxes .box svg {
+        width: 50px;
+        height: 50px;
+    }
+
+    .accountability_inner .boxes .box h3,
+    .plans .boxes .box h3 {
+        font-size: 25px;
+        line-height: 33px;
+        margin-top: 17px;
+    }
+
+    .accountability_inner .boxes .box p {
+        margin-top: 5px;
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .accountability_inner .btns {
+        margin-top: 66px;
+    }
+
+    .results .boxes {
+        margin-top: 35px;
+    }
+
+    .plans .boxes {
+        margin-top: 43px;
+    }
+
+    .plans .boxes .box .image {
+        width: 70px;
+        height: 70px;
+    }
+
+    .plans .boxes .box svg {
+        width: 36px;
+        height: 36px;
+    }
+
+    .plans .boxes .box {
+        row-gap: 30px;
+    }
+
+    .plans .boxes .box {
+        padding: 0px 47px 20px 55px;
+    }
+
+    .plans .boxes::before {
+        left: 33%;
+    }
+
+
+    .plans .boxes .box h3 {
+        margin-top: 0px;
+    }
+
+    .plans .boxes .box .content p {
+        margin-top: 14px;
+    }
+
+    .stephen {
+        padding: 100px 0px;
+    }
+
+    .stephen_inner {
+        row-gap: 17px;
+    }
+
+    .stephen_inner h2 {
+        font-size: 39px;
+        line-height: 47px;
+    }
+
+    .carity_inner .right p {
+        margin-top: 10px;
+    }
+
+    .pricing {
+        margin-top: 100px;
+    }
+
+    .pricing_inner .image {
+        column-gap: 12px;
+        margin-top: 11px;
+    }
+
+    .pricing_inner h5 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    .pricing_inner .boxes {
+        margin-top: 40px;
+    }
+
+    .pricing_inner .boxes .left {
+        width: 43%;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly h3,
+    .pricing_inner .boxes .left .pricing_box .monthly ul li {
+        font-size: 25px;
+        line-height: 31px;
+        column-gap: 9px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly ul {
+        margin-top: 10px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly ul .currant {
+        font-size: 32px;
+        line-height: 31px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly h3 span {
+        font-size: 13px;
+        font-weight: 800;
+        line-height: 16px;
+    }
+
+    .pricing_inner .boxes .right ul {
+        margin-top: 21px;
+        row-gap: 21px;
+    }
+
+    .eachFaq {
+        background: #FFF;
+        padding: 16px 23px;
+        border-radius: 17px;
+    }
+
+    .eachFaq h4 {
+        font-size: 21px;
+        line-height: 27px;
+
+    }
+
+    .eachFaq.close h4::before,
+    .eachFaq.open h4::before {
+        width: 26px;
+        height: 26px;
+
+    }
+
+    .faq_box {
+        margin-top: 40px;
+    }
+
+    .matrix_inner .left {
+        row-gap: 15px;
+    }
+
+    .matrix_inner .right form {
+        padding: 35px;
+        row-gap: 9px;
+    }
+
+    .matrix_inner .right form label {
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .matrix_inner .right form input {
+        padding: 8px 15px;
+        font-size: 16px;
+        margin-top: 7px;
+    }
+
+    .matrix_inner .right form button {
+        padding: 11px 15px;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+
+    .money {
+        margin-top: 130px;
+        padding: 45px 90px 45px 90px;
+    }
+
+    .money .description {
+        margin-top: 14px;
+    }
+
+    .money h4 {
+        margin-top: 17px;
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+    .reality_inner {
+        width: 44%;
+        margin: 0 auto;
+    }
+
+    footer {
+        padding-top: 70px;
+        padding-bottom: 15px;
+    }
+
+    footer a img {
+        width: 388px;
+    }
+
+    .blank_section {
+        height: 400px;
+    }
+
+
+}
+
+/* 1360 */
+@media screen and (max-width:1360px) {
+    .process-inner .boxes .box .right .calendar-container .investor {
+        top: 12.5rem;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .Iinvestor {
+        bottom: -23px;
+    }
+}
+
+/* 1323 */
+@media screen and (max-width:1323px) {
+    .accountability_inner .boxes .box {
+        width: 24.3%;
+    }
+}
+
+/* 1338 */
+@media screen and (max-width:1338px) {
+    .plans .boxes .box {
+        padding: 0px 46px 20px 46px;
+    }
+}
+
+/* 1304 */
+@media screen and (max-width:1304px) {
+    .plans .boxes .box {
+        padding: 0px 41px 20px 41px;
+    }
+}
+
+/* 1272 */
+@media screen and (max-width:1272px) {
+    .plans .boxes .box {
+        padding: 0px 36px 20px 36px;
+    }
+}
+
+/* 1247 */
+@media screen and (max-width:1247px) {
+    .plans .boxes {
+
+        padding: 32px 20px 10px 20px;
+    }
+
+    .plans .boxes .box {
+        padding: 0px 0px 20px 0px !important;
+        width: 32%;
+    }
+
+    /*     .plans .boxes .box:nth-child(2) {
+        padding: 0px 29px !important;
+    }
+
+    .plans .boxes .box:nth-child(3) {
+        padding: 0px 0px 0px 29px !important;
+    } */
+    .plans .boxes .box {
+        width: 27%;
+    }
+
+    .plans .boxes .box .content {
+        max-width: 100%;
+    }
+
+    .plans .boxes .box .content {
+        max-width: 96%;
+    }
+
+    .plans .boxes::after {
+        right: 33%;
+    }
+
+    .plans .boxes::before {
+        left: 32%;
+    }
+
+}
+
+/* 1264 */
+@media screen and (max-width:1264px) {
+    h1 {
+        font-size: 44px;
+        line-height: 49px;
+    }
+
+    .accountability {
+        margin-top: 80px;
+    }
+
+    .process-inner .boxes {
+        row-gap: 80px;
+    }
+
+    p {
+        font-size: 19px;
+        line-height: 26px;
+    }
+
+    .same_btn {
+        padding: 11px 31px;
+    }
+
+    .banner_inner .same_btn {
+        padding: 13px 30px;
+    }
+
+    .banner {
+        padding: 70px 0px 299px 0px;
+    }
+
+    .banner_inner {
+        row-gap: 8px;
+    }
+
+    .organized,
+    .reaching,
+    .process,
+    .results,
+    .plans,
+    .testimonials,
+    .clarity,
+    .questions,
+    .matrix,
+    .reality,
+    .process-inner .boxes {
+        margin-top: 65px;
+    }
+
+    .reaching,
+    .accountability,
+    .plans,
+    .pricing,
+    .matrix,
+    .reality {
+        padding: 70px 0px;
+    }
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+
+        width: 220px;
+        background-size: contain;
+    }
+
+    .organized_inner .box:nth-child(2)::after {
+        left: 72%;
+    }
+
+    .organized_inner .box {
+        row-gap: 7px;
+    }
+
+    .organized_inner .box .image {
+        width: 80px;
+        height: 80px;
+    }
+
+    .organized_inner .box .image svg {
+        width: 40px;
+        height: 40px;
+    }
+
+    .organized_inner .box h3 {
+        color: #4D463D;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 24px;
+    }
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 47%;
+    }
+
+    .reaching_inner .left .image {
+        margin-left: 6.5rem;
+        width: 135px;
+        height: 198px;
+    }
+
+    .left_content p {
+        font-size: 14px;
+    }
+
+    .reaching_inner .right .same {
+        margin-top: 15px;
+    }
+
+    .reaching_inner .right {
+        row-gap: 13px;
+        padding-right: 38px;
+    }
+
+    .process-inner .boxes .box .left h4 {
+        font-size: 21px;
+        line-height: 25px;
+    }
+
+    .process-inner .boxes .box .left h3 {
+        margin-top: 6px;
+        font-size: 25px;
+        line-height: 31px;
+    }
+
+    .process-inner .boxes .box .left p {
+        margin-top: 9px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links li a {
+        width: 48px;
+        height: 48px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links li a img {
+        width: 26px;
+        height: 26px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links {
+        row-gap: 11px;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right .progress .coach svg {
+        width: 105.247px;
+        height: 105.247px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        width: 59.4%;
+    }
+
+    .btns {
+        row-gap: 12px;
+        margin-top: 55px;
+    }
+
+    .accountability_inner .boxes .box h3,
+    .plans .boxes .box h3 {
+        font-size: 23px;
+        line-height: 31px;
+        margin-top: 15px;
+    }
+
+    .accountability_inner .boxes .box svg {
+        width: 45px;
+        height: 45px;
+    }
+
+    .accountability_inner .btns {
+        margin-top: 55px;
+    }
+
+    .plans .boxes {
+        margin-top: 40px;
+    }
+
+
+    .plans .boxes .box {
+        row-gap: 16px;
+    }
+
+    .plans .boxes .box {
+        padding: 0px 51px 20px 51px;
+    }
+
+    .testimonials .boxes .box {
+        padding: 25px;
+        min-height: 430px;
+    }
+
+    .stephen_inner h2 {
+        font-size: 35px;
+        line-height: 44px;
+    }
+
+    .stephen {
+        padding: 75px 0px;
+    }
+
+    .carity_inner .left {
+        height: 383px;
+    }
+
+    .pricing_inner {
+        width: 100%;
+    }
+
+    .faq_box {
+        row-gap: 18px;
+    }
+
+    .eachFaq h4 {
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    .eachFaq.close h4::before,
+    .eachFaq.open h4::before {
+        width: 22px;
+        height: 22px;
+    }
+
+    .accordion-content p {
+        font-size: 17px;
+        line-height: 24px;
+    }
+
+    .reality_inner {
+        width: 44%;
+    }
+
+    footer {
+        padding-top: 60px;
+        padding-bottom: 13px;
+    }
+
+    footer a img {
+        width: 330px;
+    }
+
+    .testimonials .boxes {
+        margin-top: 40px;
+    }
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        width: 200px;
+    }
+
+    .organized_inner .box:nth-child(2)::after {
+        left: 74%;
+    }
+
+    .money {
+        margin-top: 100px;
+        padding: 40px 80px 40px 80px;
+    }
+
+    .matrix_inner .right form {
+        padding: 30px;
+    }
+
+    .btns .same_btn:hover {
+        border-radius: 7px;
+    }
+
+    .reaching_inner .right .same_btn:hover {
+        border-radius: 7px;
+    }
+
+
+
+}
+
+/* 1199 */
+@media screen and (max-width:1199px) {
+    .plans .boxes .box .content {
+        max-width: 100%;
+    }
+
+    .plans .boxes .box:last-of-type p {
+        padding-right: 0px;
+    }
+
+    .plans .boxes .box .content p {
+        margin-top: 16px;
+        width: 95.7%;
+    }
+}
+
+/* 1143 */
+@media screen and (max-width:1143px) {
+    .plans .boxes .box .content p {
+        width: 100%;
+    }
+
+    .blank_section {
+        height: 350px;
+    }
+}
+
+/* 1130 */
+@media screen and (max-width:1130px) {
+    h1 {
+        font-size: 38px;
+        line-height: 43px;
+    }
+
+    .reaching,
+    .accountability,
+    .plans,
+    .pricing,
+    .matrix,
+    .reality {
+        padding: 66px 0px;
+    }
+
+    .matrix_inner .right form {
+        padding: 25px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box {
+        padding: 20px;
+    }
+
+    .banner_inner .same_btn {
+        padding: 9px 25px;
+    }
+
+
+
+    .process-inner .boxes .box:nth-child(2) .meet img {
+        width: 24px;
+        height: 24px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        width: 61%;
+        padding: 13px 14px 13px 13px;
+        column-gap: 8px;
+    }
+
+    .carity_inner .left {
+        height: 350px;
+    }
+
+    .stephen_inner h2 {
+        font-size: 32px;
+        line-height: 39px;
+    }
+
+    footer a img {
+        width: 300px;
+    }
+
+    .money {
+        margin-top: 100px;
+        padding: 30px 60px 30px 60px;
+    }
+
+    .accountability {
+        margin-top: 70px;
+    }
+
+    .btns .same_btn:hover {
+        border-radius: 6px;
+    }
+
+    .reaching_inner .right .same_btn:hover {
+        border-radius: 6px;
+    }
+
+    .reality_inner {
+        width: 39%;
+    }
+
+}
+
+/* 1117 */
+@media screen and (max-width:1117px) {
+    .plans .boxes .box {
+        width: 27.8%;
+    }
+}
+
+/* 1085 */
+@media screen and (max-width:1085px) {
+    .plans .boxes .box {
+        width: 28.6%;
+    }
+}
+
+/* 1056 */
+@media screen and (max-width:1056px) {
+    .plans .boxes .box {
+        width: 29.5%;
+    }
+}
+
+/* 1049 */
+@media screen and (max-width:1049px) {
+    h1 {
+        font-size: 36px;
+        line-height: 40px;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+
+    .banner_inner .same_btn {
+        padding: 8px 23px;
+        font-size: 14px;
+    }
+
+    .banner {
+        padding: 60px 0px 255px 0px;
+    }
+
+    .banner_inner {
+        row-gap: 5px;
+    }
+
+    .banner_inner ul {
+        margin-top: 2px;
+    }
+
+    .organized,
+    .reaching,
+    .process,
+    .results,
+    .plans,
+    .testimonials,
+    .clarity,
+    .questions,
+    .matrix,
+    .reality,
+    .process-inner .boxes {
+        margin-top: 50px;
+    }
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        width: 180px;
+    }
+
+    .organized_inner .box .image {
+        width: 70px;
+        height: 70px;
+    }
+
+    .organized_inner .box .image svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    .organized_inner .box h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .reaching,
+    .accountability,
+    .plans,
+    .pricing,
+    .matrix,
+    .reality,
+    .stephen {
+        padding: 55px 0px;
+    }
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 56%;
+        padding: 12px 14px;
+    }
+
+    .reaching_inner .left .left_content:nth-child(2),
+    .reaching_inner .left .left_content:nth-child(3) {
+        margin-top: 20px;
+    }
+
+    .reaching_inner .left .image {
+        margin-left: 0rem;
+        width: 135px;
+        height: 135px;
+        margin-top: -3rem;
+    }
+
+    .same_btn {
+        padding: 9px 27px;
+    }
+
+    .reaching_inner .right {
+        row-gap: 10px;
+        padding-right: 20px;
+    }
+
+    .reaching_inner {
+        column-gap: 50px;
+    }
+
+    .process-inner .boxes .box .left {
+        width: 47%;
+    }
+
+    .process-inner .boxes .box .left h4 {
+        font-size: 19px;
+        line-height: 23px;
+    }
+
+    .process-inner .boxes .box .left h3 {
+        margin-top: 3px;
+        font-size: 22px;
+        line-height: 27px;
+    }
+
+    .process-inner .boxes .box .right {
+        width: 43%;
+    }
+
+    .process-inner .boxes .box .left p {
+        margin-top: 7px;
+    }
+
+    .calendar-day {
+        height: 41px;
+        padding-top: 17px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container {
+        padding: 14px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links li a {
+        width: 42px;
+        height: 42px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links li a img {
+        width: 23px;
+        height: 23px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investors li a {
+        column-gap: 5px;
+        font-size: 12px;
+        padding: 7px 10px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investor {
+        top: 8.9rem;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .Iinvestor {
+        bottom: -28px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right {
+        height: 300px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right .message h6 {
+        font-size: 13px;
+        border-radius: 8px 8px 8px 0px;
+        padding: 10px 10px 10px 14px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right .message span svg {
+        width: 10px;
+        height: 28px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right .message {
+        margin-top: 2px;
+        max-width: 51%;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        width: 72%;
+        padding: 11px 14px 11px 13px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet h5 {
+        font-size: 12px;
+        line-height: 142.023%;
+    }
+
+    .process-inner .boxes .box .message_box {
+        padding: 0px 15px;
+        margin-top: 7px;
+    }
+
+    .process-inner .boxes .box .message_box input {
+        font-size: 13px;
+        padding: 12px 22px 12px 0px;
+    }
+
+    .process-inner .boxes .box .message_box a {
+        margin-right: -8px;
+        width: 40px;
+        height: 35px;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right {
+        padding: 20px;
+        row-gap: 12px;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right .progress {
+        column-gap: 15px;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right .progress .coach svg {
+        width: 87.247px;
+        height: 87.247px;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right .progress h5 {
+        font-size: 14px;
+        margin-top: 6px;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right .progress .second h5 {
+        margin-top: 17px;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right .pending {
+        row-gap: unset;
+    }
+
+    .process-inner .pending .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .process-inner .boxes .box:nth-child(3) .right .progress h5 {
+        margin-top: 24px;
+    }
+
+    .accountability_inner .boxes {
+        margin-top: 45px;
+        flex-wrap: wrap;
+        row-gap: 40px;
+    }
+
+    .accountability_inner .boxes .box {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .accountability_inner .boxes .box h3,
+    .plans .boxes .box h3 {
+        font-size: 20px;
+        line-height: 27px;
+        margin-top: 15px;
+    }
+
+    .results .boxes {
+        margin-top: 20px;
+    }
+
+    .plans .boxes {
+        margin-top: 30px;
+        padding: 20px;
+    }
+
+    .plans .boxes .box:first-of-type {
+        padding-right: 20px;
+    }
+
+    .plans .boxes .box:nth-child(2) {
+        padding: 0 20px;
+    }
+
+    .plans .boxes .box:last-of-type {
+        padding-left: 20px;
+    }
+
+    .plans .boxes .box .image {
+        width: 55px;
+        height: 55px;
+    }
+
+    .plans .boxes .box svg {
+        width: 28px;
+        height: 28px;
+    }
+
+    .plans .boxes .box {
+        row-gap: 6px;
+    }
+
+    .plans .boxes .box .content {
+        max-width: 95%;
+    }
+
+    .plans .boxes .box .content p {
+        margin-top: 5px;
+    }
+
+    .accountability_inner .boxes .box h3,
+    .plans .boxes .box h3 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-top: 14px;
+    }
+
+    .plans .btns {
+        margin-top: 41px;
+        row-gap: 8px;
+    }
+
+    .plans .btns li {
+        font-size: 15px;
+        line-height: 27px;
+    }
+
+    .testimonials .boxes {
+        margin-top: 23px;
+    }
+
+    .testimonials .boxes .box {
+        padding: 20px;
+        min-height: 370px;
+    }
+
+    .testimonials .boxes .box .name {
+        column-gap: 9px;
+    }
+
+    .testimonials .boxes .box .name_inner h5 {
+        font-size: 15px;
+        line-height: 17px;
+    }
+
+    .testimonials .boxes .box .name .image {
+        width: 45px;
+        height: 45px;
+
+    }
+
+    .testimonials .boxes .box .name_inner h6 {
+        font-size: 13px;
+        line-height: 17px;
+        margin-top: 4px;
+    }
+
+    .stephen_inner {
+        row-gap: 11px;
+    }
+
+    .stephen_inner h2 {
+        font-size: 28px;
+        line-height: 33px;
+    }
+
+    .carity_inner .left {
+        height: 326px;
+        width: 38%;
+        border-radius: 19px;
+    }
+
+    .carity_inner .right {
+        width: 56%;
+    }
+
+
+
+    .testimonials .boxes .box p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .faq_box {
+        row-gap: 17px;
+        margin-top: 30px;
+        width: 90%;
+    }
+
+    .eachFaq {
+        padding: 14px 16px;
+        border-radius: 9px;
+    }
+
+    .eachFaq h4 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+
+    .eachFaq.close h4::before,
+    .eachFaq.open h4::before {
+        width: 19px;
+        height: 19px;
+    }
+
+    .matrix_inner .left {
+        width: 46%;
+    }
+
+    .matrix_inner .right {
+        width: 42%;
+    }
+
+    .matrix_inner .right form {
+        padding: 17px;
+        border-radius: 13px;
+    }
+
+    .matrix_inner .right form label {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .matrix_inner .right form input {
+        padding: 6px 11px;
+        font-size: 14px;
+        margin-top: 5px;
+    }
+
+    .matrix_inner .right form button {
+        padding: 9px 15px;
+        font-size: 14px;
+    }
+
+    .money {
+        margin-top: 76px;
+        padding: 25px 40px;
+    }
+
+    .reality_inner {
+        width: 45%;
+    }
+
+    footer {
+        padding-top: 45px;
+    }
+
+    footer a img {
+        width: 258px;
+    }
+
+    .pricing_inner .boxes .left {
+        width: 44%;
+    }
+
+    .pricing_inner .boxes .right {
+        width: 50%;
+    }
+
+    .pricing_inner .boxes .left .pricing_box {
+        padding: 18px;
+        border-radius: 19px;
+        flex-direction: column;
+        row-gap: 30px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly h3 {
+        justify-content: space-between;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly h3,
+    .pricing_inner .boxes .left .pricing_box .monthly ul li {
+        font-size: 23px;
+        line-height: 22px;
+        column-gap: 9px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly ul .currant {
+        font-size: 28px;
+        line-height: 27px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .btns .same {
+        width: 100%;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .btns .same_btn {
+        padding-left: 28px;
+        padding-right: 29px;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .pricing_inner .image {
+        column-gap: 11px;
+        margin-top: 10px;
+    }
+
+    .pricing_inner h5 {
+        font-size: 19px;
+        line-height: 26px;
+    }
+
+    .pricing_inner .boxes .right ul {
+        margin-top: 14px;
+        row-gap: 10px;
+    }
+
+    .pricing_inner .boxes .right ul li {
+        gap: 8px;
+    }
+
+    .pricing_inner .boxes .right ul li svg {
+        width: 19px;
+        height: 19px;
+    }
+
+    .process-inner .boxes {
+        row-gap: 75px;
+    }
+
+    .accountability {
+        margin-top: 60px;
+    }
+
+}
+
+/* 1024 */
+@media screen and (max-width:1024px) {
+    header {
+        padding: 15px 0px;
+    }
+
+    .blank_section {
+        height: 300px;
+    }
+
+    .header_inner .logo img {
+        width: 190px;
+    }
+
+    .same_btn,
+    .header_inner ul a,
+    .left_content p {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .header_inner .same_btn {
+        padding: 6px 19px;
+    }
+
+    .plans .boxes .box {
+        padding: 0px 0px 1px 0px !important;
+    }
+
+    .plans .boxes .box .content {
+        max-width: 97%;
+    }
+}
+
+/* 1003 */
+@media screen and (max-width:1003px) {
+    .plans .boxes .box .content {
+        max-width: 100%;
+    }
+}
+
+/* 965 */
+@media screen and (max-width:965px) {
+    .plans .boxes .box {
+        width: 31%;
+    }
+
+    .plans .boxes::before {
+        left: 32.5%;
+    }
+
+    .plans .boxes::after {
+        right: 33.5%;
+    }
+}
+
+/* 940 */
+@media screen and (max-width:940px) {
+    .plans .boxes::before {
+        left: 33%;
+    }
+
+    .plans .boxes::after {
+        right: 33.7%;
+    }
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        width: 165px;
+    }
+}
+
+/* 886 */
+@media screen and (max-width:886px) {
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        width: 150px;
+    }
+
+    .organized_inner .box:nth-child(2)::after {
+        left: 77%;
+    }
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 70%;
+    }
+
+    .plans .boxes::before,
+    .plans .boxes::after {
+        display: none;
+    }
+
+    .plans .boxes .box {
+        width: 100%;
+    }
+
+    .process-inner .boxes .box {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 45px;
+    }
+
+    .process-inner .boxes {
+        row-gap: 72px;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .process-inner .boxes .box .left,
+    .process-inner .boxes .box {
+        flex-direction: column-reverse;
+    }
+
+    .process-inner .boxes .box .left,
+    .process-inner .boxes .box .right {
+        width: 100%;
+    }
+
+    .calendar-day {
+        height: 54px;
+        padding-top: 28px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links li a {
+        width: 45px;
+        height: 45px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links {
+        right: -21px;
+    }
+
+
+    .process-inner .boxes .box .right .calendar-container .investor {
+        top: 12.9rem;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investors li a {
+        column-gap: 5px;
+        font-size: 12px;
+        padding: 9px 12px;
+    }
+
+    .process-inner .boxes {
+        row-gap: 50px;
+        margin-top: 30px;
+    }
+
+    .process-inner .boxes .box .left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .process-inner .boxes .box .left h4 {
+        font-size: 25px;
+        line-height: 26px;
+    }
+
+    .process-inner .boxes .box .left h3 {
+        margin-top: 6px;
+        font-size: 26px;
+        line-height: 31px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) {
+        flex-direction: column;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        width: 47%;
+    }
+
+    .btns {
+        row-gap: 12px;
+        margin-top: 34px;
+    }
+
+    .reaching_inner {
+        row-gap: 40px;
+        flex-direction: column;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 50%;
+        padding: 11px 50px;
+    }
+
+    .reaching_inner .left .image {
+        margin-left: 7rem;
+        width: 170px;
+        height: 170px;
+        margin-top: -3rem;
+    }
+
+    .reaching_inner .right {
+        align-items: center;
+    }
+
+    .reaching_inner .right h1,
+    .reaching_inner .right p {
+        text-align: center;
+    }
+
+    .accountability_inner {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+
+
+    .accountability_inner h1 {
+        width: 100%;
+    }
+
+    .accountability_inner .boxes {
+        margin-top: 36px;
+        row-gap: 30px;
+    }
+
+    .accountability_inner .boxes .box {
+        width: 100%;
+    }
+
+    .accountability_inner .btns {
+        margin-top: 40px;
+    }
+
+    .organized,
+    .reaching,
+    .process,
+    .results,
+    .plans,
+    .testimonials,
+    .clarity,
+    .questions,
+    .matrix,
+    .reality,
+    .accountability {
+        margin-top: 40px;
+    }
+
+
+    .reaching,
+    .accountability,
+    .plans,
+    .pricing,
+    .matrix,
+    .reality,
+    .stephen {
+        padding: 50px 0px;
+    }
+
+    .results .boxes {
+        flex-wrap: wrap;
+        margin-top: 40px;
+    }
+
+    .results .boxes .box {
+        width: 50%;
+    }
+
+    .results .boxes .box:last-of-type {
+        width: 100%;
+    }
+
+    .results .boxes {
+        flex-wrap: wrap;
+        row-gap: 30px;
+    }
+
+    .plans_inner {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .plans .boxes {
+        margin-top: 30px;
+        padding: 25px;
+        flex-direction: column;
+        row-gap: 30px;
+    }
+
+    .plans .boxes {
+        margin-top: 30px;
+        padding: 30px 25px 40px 25px;
+        flex-direction: column;
+        row-gap: 30px;
+    }
+
+    .plans .boxes .box {
+        padding: 0;
+        border-right: none;
+        align-items: center;
+
+    }
+
+    .plans .boxes .box h3,
+    .plans .boxes .box p {
+        text-align: center;
+    }
+
+    .plans .boxes .box:first-of-type {
+        padding: 0;
+    }
+
+    .plans .boxes .box:nth-child(2) {
+        padding: 0px;
+    }
+
+    .plans .boxes .box:last-of-type {
+        padding: 0;
+    }
+
+    .plans .boxes .box .content p {
+        width: 100%;
+    }
+
+    .testimonials_inner {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .testimonials .boxes {
+        flex-wrap: wrap;
+        align-items: flex-start;
+        gap: 30px;
+        justify-content: center;
+    }
+
+    .testimonials .boxes .box {
+        width: calc(50% - 15px);
+        min-height: 320px;
+    }
+
+    .testimonials .btns {
+        margin-top: 39px;
+    }
+
+    .carity_inner {
+        row-gap: 30px;
+        flex-direction: column;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .carity_inner .left {
+        width: 100%;
+    }
+
+    .carity_inner .right {
+        width: 100%;
+        text-align: center;
+    }
+
+    .carity_inner .right .btns {
+        align-items: center;
+    }
+
+    .pricing {
+        margin-top: 50px;
+    }
+
+    .pricing_inner {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .pricing_inner .boxes {
+        margin-top: 30px;
+        flex-direction: column;
+        row-gap: 31px;
+    }
+
+    .pricing_inner .boxes .left {
+        width: 100%;
+        flex-direction: row;
+        column-gap: 30px;
+    }
+
+    .pricing_inner .boxes .right {
+        width: 100%;
+    }
+
+    .matrix_inner {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        flex-direction: column;
+        row-gap: 30px;
+    }
+
+    .matrix_inner .right {
+        width: 100%;
+    }
+
+    .matrix_inner .left {
+        text-align: center;
+        width: 80%;
+    }
+
+    .money {
+        margin-top: 44px;
+    }
+
+    .money .description {
+        margin-top: 8px;
+    }
+
+    .money h4 {
+        margin-top: 10px;
+    }
+
+    .reality_inner {
+        width: 50%;
+    }
+
+
+}
+
+/* 795 */
+@media screen and (max-width:795px) {
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        width: 135px;
+    }
+
+    .banner {
+        padding: 60px 0px 212px 0px;
+    }
+}
+
+/* 767 */
+@media screen and (max-width:767px) {
+    header {
+        padding: 13px 0px;
+    }
+
+    .header_inner .logo img {
+        width: 167px;
+    }
+
+
+
+}
+
+/* 738 */
+@media screen and (max-width:738px) {
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        width: 124px;
+    }
+
+    .banner {
+        padding: 60px 0px 180px 0px;
+    }
+}
+
+/* 730 */
+@media screen and (max-width:730px) {
+    .header_inner nav .menu {
+        position: fixed;
+        right: 0;
+        top: 0;
+        background: #1F211E;
+        width: 100%;
+        height: 100vh;
+        align-items: start;
+        flex-direction: column;
+        z-index: 12423532;
+        margin-right: -100%;
+    }
+
+    .header_inner nav ul li:first-of-type {
+        margin-top: 60px;
+        border: none;
+    }
+
+    .header_inner nav ul li {
+        width: 100%;
+        text-align: center;
+        border-top: 1.5px solid white;
+    }
+
+
+    .header_inner nav ul .remove_btn {
+        display: flex;
+        width: 15px;
+        height: 15px;
+        color: white;
+        background: red;
+        align-items: center;
+        justify-content: center;
+        padding: 17px;
+        font-size: 20px;
+        margin-left: auto;
+        border-radius: 0px 0px 0px 4px;
+        cursor: pointer;
+    }
+
+    .header_inner ul a {
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 14px 0px;
+        font-size: 16px;
+    }
+
+    .header_inner nav ul .remove_btn {
+        display: flex;
+    }
+
+    .schedule_btn {
+        display: flex;
+        column-gap: 14px;
+        align-items: center;
+        flex-direction: row-reverse;
+    }
+
+
+    .schedule_btn .menu_btn {
+        display: flex;
+        width: 38px;
+        padding: 8px 8px;
+        align-items: center;
+        flex-direction: column;
+        background-color: black;
+        justify-content: center;
+        row-gap: 5px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    .schedule_btn .menu_btn span {
+        width: 100%;
+        height: 2px;
+        background-color: white;
+        display: block;
+    }
+
+}
+
+/* 700 */
+@media screen and (max-width:700px) {
+    .banner {
+        padding: 50px 0px 149px 0px;
+    }
+
+    .blank_section {
+        height: 250px;
+    }
+
+    .banner_inner {
+        row-gap: 3px;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+
+    .banner_inner .same,
+    .reaching_inner .right .same {
+        min-width: 50%;
+    }
+
+    .banner_inner .same_btn,
+    .reaching_inner .right .same .same_btn {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+    .organized,
+    .reaching,
+    .process,
+    .results,
+    .plans,
+    .testimonials,
+    .clarity,
+    .questions,
+    .matrix,
+    .reality,
+    .accountability {
+        margin-top: 35px;
+    }
+
+    .organized_inner {
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .organized_inner .box {
+        width: 100%;
+        background-color: #434343;
+    }
+
+    .organized_inner .box {
+        width: 100%;
+        background-color: #434343;
+        border-radius: 13px;
+        padding: 35px 20px;
+    }
+
+    .organized_inner .box h3 {
+        color: white;
+    }
+
+    .organized_inner .box:nth-child(2)::before,
+    .organized_inner .box:nth-child(2)::after {
+        display: none;
+    }
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 60%;
+        padding: 11px 50px;
+    }
+
+    .reaching_inner .left .image {
+        margin-left: 1rem;
+    }
+
+    .reaching,
+    .accountability,
+    .plans,
+    .pricing,
+    .matrix,
+    .reality,
+    .stephen {
+        padding: 35px 0px;
+    }
+
+    .process-inner .boxes {
+        row-gap: 30px;
+        margin-top: 25px;
+    }
+
+    .process-inner .boxes .box {
+        row-gap: 25px;
+    }
+
+    .btns .same {
+        min-width: 50%;
+    }
+
+    .btns .same_btn {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    .results .boxes {
+        row-gap: 24px;
+        margin-top: 25px;
+        justify-content: center;
+    }
+
+    .results .boxes .box {
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.20);
+    }
+
+    .process-inner .boxes .box .right .calendar-container,
+    .process-inner .boxes .box:nth-child(2) .right,
+    .process-inner .boxes .box:nth-child(3) .right,
+    .results .boxes .box {
+        border-radius: 19px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        width: 56%;
+    }
+
+    .results .boxes .box,
+    .results .boxes .box:last-of-type {
+        width: 100%;
+        border: 1px solid rgba(0, 0, 0, 0.20);
+        padding: 45px 20px;
+        width: 70%;
+    }
+
+    .plans .boxes {
+        margin-top: 25px;
+        padding: 25px 25px 35px 25px;
+        flex-direction: column;
+        row-gap: 20px;
+    }
+
+    .plans .btns {
+        margin-top: 33px;
+        row-gap: 5px;
+    }
+
+    .testimonials .boxes .box {
+        width: 100%;
+        min-height: 225px;
+        align-items: center;
+    }
+
+    .testimonials .boxes .box p {
+        text-align: center;
+    }
+
+    .testimonials .boxes {
+        gap: 23px;
+        margin-top: 20px;
+    }
+
+    .stephen_inner {
+        width: 100%;
+    }
+
+    .carity_inner {
+        row-gap: 23px;
+    }
+
+    .pricing_inner .boxes .left {
+        column-gap: 23px;
+    }
+
+    .pricing_inner .boxes {
+        margin-top: 23px;
+        row-gap: 23px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box {
+        padding: 16px;
+        row-gap: 22px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly h3,
+    .pricing_inner .boxes .left .pricing_box .monthly ul li {
+        font-size: 20px;
+        line-height: 22px;
+        column-gap: 8px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly h3 span {
+        font-size: 12px;
+        line-height: 13px;
+    }
+
+    .pricing_inner .boxes .left .pricing_box .monthly ul .currant {
+        font-size: 26px;
+        line-height: 26px;
+    }
+
+    .pricing_inner .boxes .right ul {
+        margin-top: 10px;
+        row-gap: 7px;
+    }
+
+    .pricing_inner .boxes .right ul li svg {
+        width: 16px;
+        height: 16px;
+    }
+
+    .eachFaq {
+        padding: 14px;
+    }
+
+    .faq_box {
+        margin-top: 23px;
+    }
+
+    .eachFaq h4 {
+        font-size: 16px;
+        line-height: 19px;
+    }
+
+    .accordion-content p {
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .eachFaq.close h4::before,
+    .eachFaq.open h4::before {
+        width: 16px;
+        height: 16px;
+    }
+
+    .matrix_inner {
+        row-gap: 23px;
+    }
+
+    .matrix_inner .left {
+        width: 90%;
+        row-gap: 6px;
+    }
+
+    .money {
+        margin-top: 40px;
+        padding: 20px 30px;
+        border-radius: 19px;
+    }
+
+    .reality .btns {
+        margin-top: 30px;
+        row-gap: 10px;
+    }
+
+    .reality_inner {
+        width: 54%;
+    }
+
+    .reality_inner .btns .same {
+        min-width: 100%;
+    }
+
+    footer a img {
+        width: 215px;
+    }
+
+    footer {
+        padding-top: 40px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investor a,
+    .process-inner .boxes .box .right .calendar-container .Iinvestor a {
+        font-size: 12px;
+        padding: 11px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investor {
+        top: 13.3rem;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .Iinvestor {
+        bottom: -23px;
+    }
+
+
+}
+
+/* 565 */
+@media screen and (max-width:565px) {
+    .process-inner .boxes .box:nth-child(2) .meet {
+        right: -44px;
+    }
+}
+
+/* 550 */
+@media screen and (max-width:550px) {
+    .pricing_inner .boxes .left {
+        flex-direction: column;
+        row-gap: 23px;
+    }
+
+    .blank_section {
+        height: 230px;
+    }
+
+
+}
+
+/* 540 */
+@media screen and (max-width:540px) {
+    header {
+        padding: 10px 0px;
+    }
+
+    .header_inner .logo img {
+        width: 160px;
+    }
+
+    .same_btn,
+    .header_inner ul a,
+    .left_content p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .header_inner nav ul li:first-of-type {
+        margin-top: 50px;
+        border: none;
+    }
+
+    .header_inner .same_btn {
+        padding: 5px 12px;
+    }
+
+    .schedule_btn .menu_btn {
+        padding: 7px 7px;
+        width: 34px;
+    }
+
+    .header_inner nav ul .remove_btn {
+        padding: 15px;
+        font-size: 17px;
+
+    }
+
+    .reality_inner {
+        width: 57%;
+    }
+}
+
+/* 532 */
+@media screen and (max-width:532px) {
+    .banner {
+        padding: 37px 0px 145px 0px;
+    }
+
+    h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .banner_inner {
+        row-gap: 1px;
+        text-align: center;
+    }
+
+    .banner_inner .same,
+    .reaching_inner .right .same {
+        width: 100%;
+    }
+
+    .organized_inner .box h3 {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .organized_inner {
+        row-gap: 15px;
+    }
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 75%;
+    }
+
+    .reaching_inner .left .image {
+        margin-left: 0;
+        margin-right: auto;
+        margin-top: 25px;
+        width: 180px;
+        height: 180px;
+    }
+
+    .reaching_inner {
+        row-gap: 20px;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .reaching_inner .right {
+        row-gap: 3px;
+        padding-right: 0;
+    }
+
+    .reaching_inner .right .same {
+        margin-top: 25px;
+    }
+
+    .process-inner .boxes {
+        row-gap: 25px;
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .process-inner .boxes .box .right {
+        width: 80%;
+    }
+
+    .calendar-day {
+        height: 40px;
+        padding-top: 15px;
+    }
+
+    .process-inner .boxes .box .left h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+
+
+    .process-inner .boxes .box .left h3 {
+        margin-top: 4px;
+        font-size: 24px;
+        line-height: 25px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right {
+        height: 306px;
+        padding: 11px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right .message h6 {
+        font-size: 12px;
+        border-radius: 6px 6px 6px 0px;
+        padding: 8px 8px 8px 12px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .right .message {
+        margin-top: 1px;
+    }
+
+    .process-inner .boxes .box .message_box input {
+        font-size: 12px;
+        padding: 11px 15px 11px 0px;
+    }
+
+    .process-inner .boxes .box .message_box {
+        padding: 0px 14px;
+        margin-top: 4px;
+    }
+
+    .process-inner .boxes .box .message_box a {
+        margin-right: -10px;
+        width: 34px;
+        height: 31px;
+    }
+
+    .process-inner .boxes .box .message_box a svg {
+        width: 15px;
+        height: 15px;
+    }
+
+    .btns .same {
+        min-width: 100%;
+    }
+
+    .accountability_inner .boxes .box p {
+        text-align: center;
+    }
+
+    .accountability_inner .boxes {
+        margin-top: 25px;
+        row-gap: 20px;
+    }
+
+    .accountability_inner {
+        width: 100%;
+    }
+
+    .results .boxes .box,
+    .results .boxes .box:last-of-type {
+        width: 100%;
+    }
+
+    .plans_inner {
+        width: 100%;
+    }
+
+    .plans .boxes {
+        margin-top: 20px;
+        padding: 20px 20px 30px 20px;
+        flex-direction: column;
+        row-gap: 15px;
+    }
+
+    .testimonials_inner {
+        width: 100%;
+    }
+
+    .testimonials .boxes .box {
+        min-height: 255px;
+    }
+
+    .testimonials .boxes {
+        gap: 17px;
+    }
+
+    .stephen_inner h2 {
+        font-size: 23px;
+        line-height: 27px;
+    }
+
+    .reaching,
+    .accountability,
+    .plans,
+    .pricing,
+    .matrix,
+    .reality,
+    .stephen {
+        padding: 30px 0px;
+    }
+
+    .carity_inner {
+        row-gap: 18px;
+        width: 100%;
+    }
+
+    .carity_inner .left {
+        height: 287px;
+    }
+
+    .pricing_inner {
+        width: 100%;
+    }
+
+    .pricing_inner .image {
+        column-gap: 9px;
+        margin-top: 7px;
+        font-size: 17px;
+        line-height: 20px;
+    }
+
+    .pricing_inner .image svg {
+        width: 19px;
+        height: 19px;
+    }
+
+    .pricing_inner .boxes .right ul {
+        margin-top: 9px;
+        row-gap: 6px;
+    }
+
+    .faq_box {
+        margin-top: 18px;
+        width: 100%;
+    }
+
+    .eachFaq {
+        padding: 11px;
+    }
+
+    .eachFaq h4 {
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .accordion-content p {
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .matrix_inner {
+        row-gap: 21px;
+        width: 100%;
+    }
+
+    .matrix_inner .left {
+        width: 100%;
+        row-gap: 4px;
+    }
+
+    .matrix_inner .right form label {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .matrix_inner .right form input {
+        padding: 5px 9px;
+        font-size: 13px;
+        margin-top: 4px;
+    }
+
+    .matrix_inner .right form button {
+        padding: 8px 15px;
+        font-size: 13px;
+        margin-top: 15px;
+    }
+
+    .money {
+        margin-top: 35px;
+        padding: 20px;
+    }
+
+    .reality_inner {
+        width: 100%;
+    }
+
+    .reality_inner h1 {
+        width: 53%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    footer a img {
+        width: 194px;
+    }
+
+    footer {
+        padding-top: 35px;
+        padding-bottom: 12px;
+    }
+
+    .reality .btns {
+        margin-top: 30px;
+        row-gap: 8px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        right: -49px;
+        width: 100%;
+        top: -27px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investor {
+        top: 9rem;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investor a span,
+    .process-inner .boxes .box .right .calendar-container .Iinvestor a span {
+        font-size: 12px;
+    }
+}
+
+/* 459 */
+@media screen and (max-width:459px) {
+    .reality_inner h1 {
+        width: 68%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+/* 420 */
+@media screen and (max-width:420px) {
+    .header_inner nav ul li:first-of-type {
+        margin-top: 40px;
+    }
+
+    .header_inner nav ul .schedule_btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        border-top: 1px solid white;
+        padding-top: 8px;
+    }
+
+    .header_inner nav ul .schedule_btn .same_btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: white;
+        color: black;
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 12px 20px;
+        border-radius: 4px;
+        margin-top: 30px;
+    }
+
+    .schedule_btn .same_btn {
+        display: none;
+    }
+
+    .schedule_btn .menu_btn {
+        padding: 7px 8px;
+        width: 34px;
+    }
+
+    .schedule_btn .menu_btn span {
+        height: 2px;
+    }
+
+    .header_inner nav ul li a {
+        padding: 8px 0px;
+    }
+}
+
+/* 380 */
+@media screen and (max-width:380px) {
+    .banner {
+        padding: 35px 0px 110px 0px;
+    }
+
+    h1 {
+        font-size: 22px;
+        line-height: 26px;
+    }
+
+    p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .banner_inner .same_btn {
+        font-size: 13px;
+    }
+
+    .banner_inner ul {
+        margin-top: 4px;
+    }
+
+    .banner_inner ul li {
+        font-size: 13px;
+        line-height: 14px;
+        column-gap: 3px;
+    }
+
+    .organized,
+    .reaching,
+    .process,
+    .results,
+    .plans,
+    .testimonials,
+    .clarity,
+    .questions,
+    .matrix,
+    .reality,
+    .accountability {
+        margin-top: 30px;
+    }
+
+    .organized_inner {
+        row-gap: 12px;
+    }
+
+    .organized_inner .box {
+        border-radius: 10px;
+        padding: 25px 15px;
+    }
+
+    .organized_inner .box .image {
+        width: 55px;
+        height: 55px;
+    }
+
+    .organized_inner .box .image svg {
+        width: 25px;
+        height: 25px;
+    }
+
+    .reaching_inner .left {
+        margin-top: 0;
+    }
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2),
+    .reaching_inner .left .left_content:nth-child(3) {
+        padding: 11px 30px;
+        margin-top: 13px;
+    }
+
+    .reaching_inner .left .image {
+        margin-top: 19px;
+        width: 160px;
+        height: 160px;
+    }
+
+    .reaching_inner .right .same {
+        margin-top: 20px;
+    }
+
+    .process-inner .boxes {
+        margin-top: 37px;
+    }
+
+    .process-inner .boxes .box .right {
+        width: 100%;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links {
+        flex-direction: row;
+        column-gap: 13px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .links {
+        flex-direction: row;
+        column-gap: 9px;
+        top: -28px;
+        right: 0;
+    }
+
+    .process-inner .boxes .box:nth-child(1) {
+        row-gap: 134px;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investors {
+        bottom: -119px;
+        left: 0;
+        right: 0;
+        margin: 0 auto;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .investors li a {
+        align-items: center;
+        justify-content: center;
+    }
+
+    .process-inner .boxes .box .left h3 {
+        margin-top: 3px;
+        font-size: 22px;
+        line-height: 22px;
+    }
+
+    .process-inner .boxes .box .left h4 {
+        font-size: 18px;
+        line-height: 18px;
+    }
+
+    .process-inner .boxes .box {
+
+        row-gap: 17px;
+    }
+
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        right: 0;
+        width: 100%;
+        top: -7.8rem;
+        left: 0;
+        margin: 0 auto;
+    }
+
+    .process-inner .boxes .box:nth-child(2) {
+        margin-top: 87px;
+    }
+
+    .process-inner .boxes .box:nth-child(2) .meet {
+        right: 0;
+        width: 100%;
+        top: -7rem;
+        left: 0;
+        margin: 0 auto;
+    }
+
+    .process-inner .boxes .box .left p {
+        margin-top: 3px;
+    }
+
+    .btns ul li {
+        font-size: 12px;
+        line-height: 16px;
+        text-align: center;
+    }
+
+    .btns ul li a {
+        font-size: 13px;
+        line-height: 16px;
+        text-align: center;
+    }
+
+    .accountability_inner .boxes .box h3 {
+        font-size: 18px;
+        line-height: 22px;
+        margin-top: 8px;
+    }
+
+    .plans .boxes .box h3 {
+        font-size: 18px;
+        line-height: 22px;
+
+    }
+
+    .accountability_inner .boxes .box p {
+        margin-top: 4px;
+        font-size: 15px;
+        line-height: 19px;
+    }
+
+    .accountability_inner .boxes {
+        margin-top: 19px;
+        row-gap: 14px;
+    }
+
+    .results .boxes {
+        row-gap: 14px;
+        margin-top: 19px;
+    }
+
+    .results .boxes .box,
+    .results .boxes .box:last-of-type {
+        padding: 32px 20px;
+        row-gap: 3px;
+    }
+
+    .plans .boxes .box {
+        row-gap: 0px;
+    }
+
+    .plans .boxes .box .content p {
+        margin-top: 2px;
+    }
+
+    .plans .btns li {
+        font-size: 14px;
+        line-height: 17px;
+    }
+
+    .btns .same_btn {
+        font-size: 13px;
+    }
+
+    .testimonials .boxes {
+        gap: 13px;
+        margin-top: 14px;
+    }
+
+    .testimonials .boxes .box {
+        min-height: 274px;
+        padding: 15px;
+    }
+
+    .testimonials .btns {
+        margin-top: 30px;
+    }
+
+    .stephen {
+        margin-top: 30px;
+    }
+
+    .carity_inner {
+        row-gap: 10px;
+    }
+
+    .stephen_inner h2 {
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .carity_inner .left {
+        height: 249px;
+    }
+
+    .carity_inner .right p {
+        margin-top: 2px;
+    }
+
+    .pricing_inner .image {
+        column-gap: 7px;
+        margin-top: 4px;
+        font-size: 16px;
+        line-height: 17px;
+    }
+
+    .pricing_inner .boxes .right ul li {
+        font-size: 15px;
+        line-height: 22px;
+        gap: 8px;
+    }
+
+    .money {
+        margin-top: 27px;
+        padding: 15px;
+    }
+
+    .blank_section {
+        height: 200px;
+    }
+}
