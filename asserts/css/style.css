@@ -550,7 +550,8 @@ header {
     border-radius: 40px;
     background: #000;
     padding: 13.5px 13.5px;
-    transition: 0.3s all;
+    transition: 0.6s all;
+    cursor: pointer;
 }
 
 .process-inner .boxes .box .right .calendar-container .investor a svg,
@@ -567,14 +568,17 @@ header {
     font-weight: 600;
     line-height: 100%;
     transition: 0.3s all;
+}
+
+.task span {
     display: none;
 }
 
-.process-inner .boxes .box .right .calendar-container .investor:hover span {
-    display: block !important;
+.task:hover span {
+    display: block;
 }
 
-.process-inner .boxes .box .right .calendar-container .Iinvestor:hover span {
+.task a.active span {
     display: block;
 }
 
@@ -666,6 +670,11 @@ header {
     border-radius: 48px;
     border: 1px solid rgba(115, 52, 41, 0.15);
     margin-top: 15px;
+    transition: 0.5s all;
+}
+
+.process-inner .boxes .box .message_box.active {
+    border: 1px solid black;
 }
 
 .process-inner .boxes .box .message_box input {
@@ -677,6 +686,10 @@ header {
     font-weight: 400;
     line-height: 100%;
     padding: 18px 30px 18px 0px;
+}
+
+.process-inner .boxes .box .send_message {
+    cursor: pointer;
 }
 
 .process-inner .boxes .box:nth-child(2) .right {
@@ -699,6 +712,11 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    transform: 0.5s all;
+}
+
+.process-inner .boxes .box .message_box a:hover {
+    transform: scale(1.08);
 }
 
 .process-inner .boxes .box .message_box a svg {
@@ -1612,11 +1630,12 @@ header {
     font-style: italic;
     font-weight: 400;
     line-height: 28px;
+
 }
 
 /* blank_section */
 .blank_section {
-    height: 55px !important;
+    height: 1px !important;
 }
 
 /* reality */

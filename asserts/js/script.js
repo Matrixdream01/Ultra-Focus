@@ -196,26 +196,4 @@ $(document).ready(function () {
 
 
 
-//menu_btn
-document.querySelector('.menu_btn').addEventListener('click', function () {
-    const menu = document.querySelector('.menu');
-    menu.style.marginRight = '0';
-    menu.style.transition = 'margin 0.7s ease-in-out';
-});
-
-document.querySelector('.remove_btn').addEventListener('click', function () {
-    const menu = document.querySelector('.menu');
-    menu.style.marginRight = '-100%';
-    menu.style.transition = 'margin 0.7s ease-in-out';
-});
-
-/* //hover
-$(document).ready(function () {
-    $(".investors li").hover(
-        function () {
-            $(this).find('span').css("display", "block");
-        }
-
-    );
-}); */
 
