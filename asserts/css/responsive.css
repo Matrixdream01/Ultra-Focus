@@ -2149,7 +2149,10 @@
     }
 
     .schedule_btn .menu_btn.active {
-        border-radius: 0;
+        background-color: rgb(56, 53, 53);
+    }
+    .schedule_btn .menu_btn.active span{
+        background-color: white;
     }
 
     .schedule_btn .menu_btn span {
