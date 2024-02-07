@@ -506,6 +506,15 @@
     }
 }
 
+/* 1274 */
+@media screen and (max-width:1274px) and (min-width:1265px) {
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 45%;
+    }
+}
+
 /* 1272 */
 @media screen and (max-width:1272px) {
     .plans .boxes .box {
@@ -853,11 +862,17 @@
         width: 100%;
     }
 
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 49%;
+    }
+
 
 }
 
 /* 1130 */
 @media screen and (max-width:1130px) {
+
     h1 {
         font-size: 38px;
         line-height: 43px;
@@ -931,6 +946,7 @@
         width: 39%;
     }
 
+
 }
 
 /* 1117 */
@@ -938,6 +954,24 @@
     .plans .boxes .box {
         width: 27.8%;
     }
+}
+
+/* 1098 */
+@media screen and (max-width:1100px) {
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 51%;
+    }
+
+    .reaching_inner .left .left_content {
+        padding: 12px 18px;
+    }
+
+    .reaching_inner .left .image {
+        margin-left: 4.8rem;
+    }
+
 }
 
 /* 1085 */
@@ -2151,7 +2185,8 @@
     .schedule_btn .menu_btn.active {
         background-color: rgb(56, 53, 53);
     }
-    .schedule_btn .menu_btn.active span{
+
+    .schedule_btn .menu_btn.active span {
         background-color: white;
     }
 
@@ -2632,6 +2667,15 @@
     }
 
 
+}
+
+/* 532 */
+@media screen and (max-width:532px) and (min-width:500px) {
+
+    .reaching_inner .left .left_content,
+    .reaching_inner .left .left_content:nth-child(2) {
+        width: 57% !important;
+    }
 }
 
 /* 532 */
