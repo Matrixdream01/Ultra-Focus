@@ -1,4 +1,16 @@
-/* 1430 */
+/********************************* 1440 and 1438 *******************************/
+@media screen and (max-width:1440px) and (min-width:1438px) {
+
+    .reaching_inner .left .left_content:first-of-type {
+        padding: 12px 26px !important;
+    }
+
+    .reaching_inner .left .left_content:nth-child(2) {
+        padding: 12px 27px !important;
+    }
+}
+
+/********************************* 1430 *******************************/
 @media screen and (max-width:1430px) {
 
     .pricing_inner .boxes .left .pricing_box .monthly h3,
@@ -18,10 +30,12 @@
         line-height: 15px;
         padding: 9px 12px 7px 12px;
     }
+
 }
 
-/* 1426 */
+/********************************* 1423 *******************************/
 @media screen and (max-width:1423px) {
+
     .reaching_inner .left .left_content {
         width: 42.5%;
     }
@@ -32,15 +46,16 @@
     }
 }
 
-/* 1405 */
+/********************************* 1405 *******************************/
 @media screen and (max-width:1405px) {
+
     .reaching_inner .left .left_content:nth-child(2) {
         width: 43.5%;
     }
 
 }
 
-/* 1400 */
+/********************************* 1400 *******************************/
 @media screen and (max-width:1400px) {
 
     .plans .boxes .box {
@@ -56,15 +71,17 @@
     }
 }
 
-/* 1380 */
+/********************************* 1380 *******************************/
 @media screen and (max-width:1380px) {
+
     .plans .boxes .box {
         padding: 0px 30px 20px 30px;
     }
 }
 
-/* 1366 */
+/********************************* 1366 *******************************/
 @media screen and (max-width:1366px) {
+
     h1 {
         font-size: 48px;
         line-height: 54px;
@@ -179,21 +196,6 @@
     .process-inner .boxes .box .right .calendar-container .links li a {
         width: 53px;
         height: 53px;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 12.5rem;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investors li a {
-        column-gap: 7px;
-        font-size: 13px;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investors li a {
-        column-gap: 7px;
-        font-size: 13px;
-        padding: 11px 14px;
     }
 
     .process-inner .boxes {
@@ -313,7 +315,6 @@
         left: 33%;
     }
 
-
     .plans .boxes .box h3 {
         margin-top: 0px;
     }
@@ -397,14 +398,12 @@
     .eachFaq h4 {
         font-size: 21px;
         line-height: 27px;
-
     }
 
     .eachFaq.close h4::before,
     .eachFaq.open h4::before {
         width: 26px;
         height: 26px;
-
     }
 
     .faq_box {
@@ -469,44 +468,33 @@
     footer a img {
         width: 388px;
     }
-
-
-
 }
 
-/* 1360 */
-@media screen and (max-width:1360px) {
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 12.5rem;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .Iinvestor {
-        bottom: -23px;
-    }
-}
-
-/* 1323 */
+/********************************* 1323 *******************************/
 @media screen and (max-width:1323px) {
+
     .accountability_inner .boxes .box {
         width: 24.3%;
     }
 }
 
-/* 1338 */
+/********************************* 1338 *******************************/
 @media screen and (max-width:1338px) {
+
     .plans .boxes .box {
         padding: 0px 46px 20px 46px;
     }
 }
 
-/* 1304 */
+/********************************* 1304 *******************************/
 @media screen and (max-width:1304px) {
+
     .plans .boxes .box {
         padding: 0px 41px 20px 41px;
     }
 }
 
-/* 1274 */
+/********************************* 1274 and 1265 *******************************/
 @media screen and (max-width:1274px) and (min-width:1265px) {
 
     .reaching_inner .left .left_content,
@@ -515,17 +503,18 @@
     }
 }
 
-/* 1272 */
+/********************************* 1272px *******************************/
 @media screen and (max-width:1272px) {
+
     .plans .boxes .box {
         padding: 0px 36px 20px 36px;
     }
 }
 
-/* 1247 */
+/********************************* 1247 *******************************/
 @media screen and (max-width:1247px) {
+    
     .plans .boxes {
-
         padding: 32px 20px 10px 20px;
     }
 
@@ -534,13 +523,6 @@
         width: 32%;
     }
 
-    /*     .plans .boxes .box:nth-child(2) {
-        padding: 0px 29px !important;
-    }
-
-    .plans .boxes .box:nth-child(3) {
-        padding: 0px 0px 0px 29px !important;
-    } */
     .plans .boxes .box {
         width: 27%;
     }
@@ -560,11 +542,11 @@
     .plans .boxes::before {
         left: 32%;
     }
-
 }
 
-/* 1264 */
+/********************************* 1264 *******************************/
 @media screen and (max-width:1264px) {
+
     h1 {
         font-size: 44px;
         line-height: 49px;
@@ -624,7 +606,6 @@
 
     .organized_inner .box:nth-child(2)::before,
     .organized_inner .box:nth-child(2)::after {
-
         width: 220px;
         background-size: contain;
     }
@@ -742,7 +723,6 @@
         margin-top: 40px;
     }
 
-
     .plans .boxes .box {
         row-gap: 16px;
     }
@@ -835,13 +815,11 @@
     .reaching_inner .right .same_btn:hover {
         border-radius: 7px;
     }
-
-
-
 }
 
-/* 1199 */
+/********************************* 1199 *******************************/
 @media screen and (max-width:1199px) {
+
     .plans .boxes .box .content {
         max-width: 100%;
     }
@@ -856,8 +834,9 @@
     }
 }
 
-/* 1143 */
+/********************************* 1143 *******************************/
 @media screen and (max-width:1143px) {
+
     .plans .boxes .box .content p {
         width: 100%;
     }
@@ -866,11 +845,9 @@
     .reaching_inner .left .left_content:nth-child(2) {
         width: 49%;
     }
-
-
 }
 
-/* 1130 */
+/********************************* 1130 *******************************/
 @media screen and (max-width:1130px) {
 
     h1 {
@@ -898,8 +875,6 @@
     .banner_inner .same_btn {
         padding: 9px 25px;
     }
-
-
 
     .process-inner .boxes .box:nth-child(2) .meet img {
         width: 24px;
@@ -945,18 +920,17 @@
     .reality_inner {
         width: 39%;
     }
-
-
 }
 
-/* 1117 */
+/********************************* 1117 *******************************/
 @media screen and (max-width:1117px) {
+
     .plans .boxes .box {
         width: 27.8%;
     }
 }
 
-/* 1098 */
+/********************************* 1100 *******************************/
 @media screen and (max-width:1100px) {
 
     .reaching_inner .left .left_content,
@@ -971,18 +945,19 @@
     .reaching_inner .left .image {
         margin-left: 4.8rem;
     }
-
 }
 
-/* 1085 */
+/********************************* 1085 *******************************/
 @media screen and (max-width:1085px) {
+
     .plans .boxes .box {
         width: 28.6%;
     }
 }
 
-/* 1056 */
+/********************************* 1056 *******************************/
 @media screen and (max-width:1056px) {
+
     .plans .boxes .box {
         width: 29.5%;
     }
@@ -992,8 +967,9 @@
     }
 }
 
-/* 1049 */
+/********************************* 1049 *******************************/
 @media screen and (max-width:1049px) {
+
     h1 {
         font-size: 36px;
         line-height: 40px;
@@ -1136,20 +1112,6 @@
     .process-inner .boxes .box .right .calendar-container .links li a img {
         width: 23px;
         height: 23px;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investors li a {
-        column-gap: 5px;
-        font-size: 12px;
-        padding: 7px 10px;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 8.9rem;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .Iinvestor {
-        bottom: -28px;
     }
 
     .process-inner .boxes .box:nth-child(2) .right {
@@ -1368,13 +1330,10 @@
         width: 56%;
     }
 
-
-
     .testimonials .boxes .box p {
         font-size: 16px;
         line-height: 20px;
     }
-
 
     .faq_box {
         row-gap: 17px;
@@ -1529,18 +1488,21 @@
         left: -20px;
     }
 
-    .process-inner .boxes .box .right .calendar-container .Iinvestor {
-        bottom: -8px;
+    .process-inner .boxes .box .right .calendar-container .investor {
+        bottom: 37px !important;
+        left: -21px !important;
     }
 
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 9rem !important;
+    .process-inner .boxes .box .right .calendar-container .Iinvestor {
+        left: -21px !important;
+        bottom: -17px !important;
     }
 
 }
 
-/* 1024 */
+/********************************* 1024 *******************************/
 @media screen and (max-width:1024px) {
+
     header {
         padding: 15px 0px;
     }
@@ -1548,8 +1510,6 @@
     .banner_inner .same_btn {
         margin-top: 27px;
     }
-
-
 
     .header_inner .logo img {
         width: 190px;
@@ -1575,15 +1535,17 @@
     }
 }
 
-/* 1003 */
+/********************************* 1003 *******************************/
 @media screen and (max-width:1003px) {
+
     .plans .boxes .box .content {
         max-width: 100%;
     }
 }
 
-/* 965 */
+/********************************* 965 *******************************/
 @media screen and (max-width:965px) {
+
     .plans .boxes .box {
         width: 31%;
     }
@@ -1597,8 +1559,9 @@
     }
 }
 
-/* 940 */
+/********************************* 940 *******************************/
 @media screen and (max-width:940px) {
+
     .plans .boxes::before {
         left: 33%;
     }
@@ -1613,8 +1576,9 @@
     }
 }
 
-/* 886 */
+/********************************* 886 *******************************/
 @media screen and (max-width:886px) {
+
     .money {
         margin-top: 68px !important;
     }
@@ -1677,10 +1641,6 @@
         width: 60%;
     }
 
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 11.3rem !important;
-    }
-
     .calendar-day {
         height: 49px;
         padding-top: 25px;
@@ -1693,17 +1653,6 @@
 
     .process-inner .boxes .box .right .calendar-container .links {
         right: -21px;
-    }
-
-
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 12.9rem;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investors li a {
-        column-gap: 5px;
-        font-size: 12px;
-        padding: 9px 12px;
     }
 
     .process-inner .boxes {
@@ -1776,8 +1725,6 @@
         margin-right: auto;
     }
 
-
-
     .accountability_inner h1 {
         width: 100%;
     }
@@ -1808,7 +1755,6 @@
     .accountability {
         margin-top: 40px;
     }
-
 
     .reaching,
     .accountability,
@@ -1992,10 +1938,16 @@
         width: 64% !important;
     }
 
+    .process-inner .boxes .box .right .calendar-container .investor {
+        left: -24px !important;
+    }
 
+    .process-inner .boxes .box .right .calendar-container .Iinvestor {
+        left: -24px !important;
+    }
 }
 
-/* 795 */
+/********************************* 795 *******************************/
 @media screen and (max-width:795px) {
 
     .organized_inner .box:nth-child(2)::before,
@@ -2012,8 +1964,9 @@
     }
 }
 
-/* 767 */
+/********************************* 767 *******************************/
 @media screen and (max-width:767px) {
+
     header {
         padding: 13px 0px;
     }
@@ -2029,12 +1982,9 @@
     .process-inner .boxes .box {
         row-gap: 27px !important;
     }
-
-
-
 }
 
-/* 738 */
+/********************************* 738 *******************************/
 @media screen and (max-width:738px) {
 
     .organized_inner .box:nth-child(2)::before,
@@ -2047,8 +1997,9 @@
     }
 }
 
-/* 730 */
+/********************************* 730 *******************************/
 @media screen and (max-width:730px) {
+
     header {
         position: sticky;
         top: 0;
@@ -2155,7 +2106,6 @@
         display: none;
     }
 
-
     .schedule_btn {
         display: flex;
         column-gap: 14px;
@@ -2206,12 +2156,11 @@
         margin-top: 34px !important;
         row-gap: 34px !important;
     }
-
-
 }
 
-/* 700 */
+/********************************* 700 *******************************/
 @media screen and (max-width:700px) {
+
     .banner {
         padding: 50px 0px 153px 0px;
     }
@@ -2237,8 +2186,6 @@
         display: flex;
         justify-content: center;
     }
-
-
 
     .organized,
     .reaching,
@@ -2474,20 +2421,20 @@
     }
 
     .process-inner .boxes .box .right .calendar-container .investor {
-        top: 13.3rem;
+        bottom: 52px !important;
+        left: -25px !important;
     }
 
     .process-inner .boxes .box .right .calendar-container .Iinvestor {
-        bottom: -23px;
+        left: -25px !important;
+        bottom: -5px !important;
     }
 
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 12rem !important;
-    }
 }
 
-/* 690 */
+/********************************* 690 *******************************/
 @media screen and (max-width:690px) {
+
     .process-inner .boxes .box:nth-child(2) .meet {
         width: 72% !important;
     }
@@ -2497,8 +2444,9 @@
     }
 }
 
-/* 613 */
+/********************************* 613 *******************************/
 @media screen and (max-width:613px) {
+
     .organized_inner .box .image {
         width: 60px;
         height: 60px;
@@ -2524,14 +2472,15 @@
     }
 }
 
-/* 600 */
+/********************************* 600 *******************************/
 @media screen and (max-width:600px) {
+
     .process-inner .boxes .box .right {
         width: 80%;
     }
 }
 
-/* 569 */
+/********************************* 569 *******************************/
 @media screen and (max-width:569px) {
 
     .reaching_inner .left .left_content,
@@ -2541,8 +2490,9 @@
     }
 }
 
-/* 565 */
+/********************************* 565 *******************************/
 @media screen and (max-width:565px) {
+
     .process-inner .boxes .box:nth-child(2) .meet {
         right: -44px;
     }
@@ -2561,20 +2511,18 @@
     }
 }
 
-/* 550 */
+/********************************* 550 *******************************/
 @media screen and (max-width:550px) {
+
     .pricing_inner .boxes .left {
         flex-direction: column;
         row-gap: 23px;
     }
-
-
-
-
 }
 
-/* 540 */
+/********************************* 540 *******************************/
 @media screen and (max-width:540px) {
+
     header {
         padding: 10px 0px;
     }
@@ -2611,7 +2559,6 @@
     .header_inner nav ul .remove_btn {
         padding: 15px;
         font-size: 17px;
-
     }
 
     .reality_inner {
@@ -2665,11 +2612,9 @@
     .organized_inner .box:nth-child(2)::after {
         top: 141px;
     }
-
-
 }
 
-/* 532 */
+/********************************* 532 and 500 *******************************/
 @media screen and (max-width:532px) and (min-width:500px) {
 
     .reaching_inner .left .left_content,
@@ -2678,8 +2623,9 @@
     }
 }
 
-/* 532 */
+/********************************* 532 *******************************/
 @media screen and (max-width:532px) {
+
     .banner {
         padding: 37px 0px 145px 0px;
     }
@@ -2701,7 +2647,6 @@
     .banner_inner {
         row-gap: 6px !important;
     }
-
 
     .banner_inner .same,
     .reaching_inner .right .same {
@@ -2769,8 +2714,6 @@
         line-height: 20px;
     }
 
-
-
     .process-inner .boxes .box .left h3 {
         margin-top: 4px;
         font-size: 24px;
@@ -2832,7 +2775,6 @@
     }
 
     .accountability_inner .boxes .box h3 {
-
         margin-top: 15px !important;
     }
 
@@ -3004,10 +2946,6 @@
         top: -4px;
     }
 
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 9rem;
-    }
-
     .process-inner .boxes .box .right .calendar-container .investor a span,
     .process-inner .boxes .box .right .calendar-container .Iinvestor a span {
         font-size: 12px;
@@ -3015,10 +2953,6 @@
 
     .stephen {
         margin-top: 43px;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 9.23rem !important;
     }
 
     .process-inner .boxes {
@@ -3040,15 +2974,17 @@
     }
 }
 
-/* 462 */
+/********************************* 462 *******************************/
 @media screen and (max-width:462px) {
+
     .process-inner .boxes .box:nth-child(2) .meet {
         width: 82% !important;
     }
 }
 
-/* 459 */
+/********************************* 459 *******************************/
 @media screen and (max-width:459px) {
+
     .reality_inner h1 {
         width: 68%;
         margin-left: auto;
@@ -3080,8 +3016,9 @@
     }
 }
 
-/* 450 */
+/********************************* 450 *******************************/
 @media screen and (max-width:450px) {
+
     .organized_inner .box .image {
         width: 72px !important;
         height: 72px !important;
@@ -3106,17 +3043,25 @@
     }
 }
 
-
-
-/* 430 */
+/********************************* 430 *******************************/
 @media screen and (max-width:430px) {
+
     .reality_inner h1 {
         width: 52% !important;
     }
+
+    .process-inner .boxes .box .right .calendar-container .investor {
+        left: -23px !important;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .Iinvestor {
+        left: -23px !important;
+    }
 }
 
-/* 420 */
+/********************************* 420 *******************************/
 @media screen and (max-width:420px) {
+
     .header_inner nav ul li:first-of-type {
         margin-top: 40px;
     }
@@ -3217,8 +3162,9 @@
     }
 }
 
-/* 380 */
+/********************************* 380 *******************************/
 @media screen and (max-width:380px) {
+
     .banner {
         padding: 35px 0px 110px 0px;
     }
@@ -3226,7 +3172,6 @@
     .banner_inner .same_btn {
         margin-top: 23px;
     }
-
 
     p {
         font-size: 15px;
@@ -3263,7 +3208,6 @@
     .organized_inner {
         row-gap: 12px;
     }
-
 
     .reaching_inner .left {
         margin-top: 0;
@@ -3304,18 +3248,6 @@
         row-gap: 134px;
     }
 
-    .process-inner .boxes .box .right .calendar-container .investors {
-        bottom: -119px;
-        left: 0;
-        right: 0;
-        margin: 0 auto;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investors li a {
-        align-items: center;
-        justify-content: center;
-    }
-
     .process-inner .boxes .box .left h3 {
         margin-top: 3px;
         font-size: 22px;
@@ -3328,7 +3260,6 @@
     }
 
     .process-inner .boxes .box {
-
         row-gap: 17px;
     }
 
@@ -3357,7 +3288,6 @@
     .plans .boxes .box h3 {
         font-size: 18px;
         line-height: 22px;
-
     }
 
     .accountability_inner .boxes .box p {
@@ -3463,8 +3393,10 @@
         bottom: -4px;
     }
 
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 8.8rem !important;
+    .process-inner .boxes .box .right .calendar-container .links {
+        column-gap: 9px !important;
+        top: -8px !important;
+        right: -20px !important;
     }
 
     .process-inner .boxes {
@@ -3562,17 +3494,23 @@
         width: 31px !important;
         height: 31px !important;
     }
+
+    .process-inner .boxes .box .right .calendar-container .investor {
+        left: -21px !important;
+        bottom: 45.8px !important;
+    }
+
+    .process-inner .boxes .box .right .calendar-container .Iinvestor {
+        left: -21px !important;
+    }
 }
 
-/* 352 */
+/********************************* 352 *******************************/
 @media screen and (max-width:352px) {
+
     .calendar-day {
         height: 38px;
         padding-top: 14px;
-    }
-
-    .process-inner .boxes .box .right .calendar-container .investor {
-        top: 8.2rem !important;
     }
 
     .reality_inner h1 {
@@ -3580,8 +3518,9 @@
     }
 }
 
-/* 339 */
+/********************************* 339 *******************************/
 @media screen and (max-width:339px) {
+    
     .process-inner .boxes .box:nth-child(2) .right .message {
         max-width: 62%;
     }
