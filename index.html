@@ -903,10 +903,19 @@
     <!-- jquery -->
     <script>
         $(document).ready(function () {
-            $(".menu_btn").click(function () {
+            $("body").click(function (event) {
+                if (!$(event.target).find(".menu_btn").length) {
+                    $(".menu").removeClass("active");
+                    $(".menu_btn").removeClass("active");
+                }
+            });
+            $(".menu").click(function (event) {
+                event.stopPropagation();
+            });
+            $(".menu_btn").click(function (event) {
+                event.stopPropagation();
                 $(this).toggleClass("active");
                 $(".menu").toggleClass("active");
-                $(".header_inner nav ul::after").toggleClass("active");
             });
 
             $(window).on("scroll", function () {

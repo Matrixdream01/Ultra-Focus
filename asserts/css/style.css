@@ -295,6 +295,11 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: 0.5s transform;
+}
+
+.organized_inner .box .image:hover {
+    transform: scale(1.09);
 }
 
 .organized_inner .box .image svg {
