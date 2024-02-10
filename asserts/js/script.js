@@ -159,41 +159,45 @@ function removeAllChildren(parent) {
     }
 }
 
-//faq
-$(document).ready(function () {
 
-    var accordionParentClass = '.eachFaq';
-    var accordionQuestionClass = '.eachFaq .title';
-    var accordionContentClass = '.accordion-content';
+// lead form
+// function closePopup() {
+//     document.getElementById('popup-overlay').style.display = 'none';
+//     document.getElementById('popup-content').style.display = 'none';
+// }
 
-    $(accordionParentClass).each(function () {
-        $(this).addClass('close');
-        $(this).find(accordionContentClass).hide();
-    });
+// function submitForm(event) {
+//     event.preventDefault();
+//     var email = document.getElementById('email').value;
+//     // Here you can process the email address, e.g., send it to your server
+//     console.log('Email submitted: ' + email);
+//     // Close the popup after form submission
+//     closePopup();
+//     // Set a cookie to remember that the user has submitted their information
+//     document.cookie = "popupSubmitted=true; expires=,Fri 31 Dec 2004 23:59:59 GMT";
+// }
 
-    $(accordionParentClass).click(function () {
-        var faqClass = $(this).closest(accordionParentClass).attr('class');
-        console.log(faqClass);
+// // Check if the user has submitted their information before
+// // function checkPopupSubmission() {
+// //     var cookies = document.cookie.split(';');
+// //     for (var i = 0; i < cookies.length; i++) {
+// //         var cookie = cookies[i].trim();
+// //         if (cookie.indexOf('popupSubmitted=') === 0) {
+// //             // If the cookie exists, user has submitted their information, so don't show the popup
+// //             return true;
+// //         }
+// //     }
+// //     return false;
+// // }
 
-        if (faqClass.indexOf('close') != -1) {
-            //WHEN CLOSED
-            $(accordionParentClass).find(accordionContentClass).slideUp('slow'); //CLOSE ALL
-            $(accordionParentClass).addClass('close').removeClass('open'); //set all faq as closed
-
-            $(this).closest(accordionParentClass).removeClass('close');
-            $(this).closest(accordionParentClass).addClass('open');
-            $(this).closest(accordionParentClass).find(accordionContentClass).slideDown('slow');
-
-        } else {
-            $(this).closest(accordionParentClass).addClass('close');
-            $(this).closest(accordionParentClass).removeClass('open');
-            $(this).closest(accordionParentClass).find(accordionContentClass).slideUp('slow');
-        }
-
-    });
-
-});
-
-
+// // Show the popup if the user has not submitted their information before
+// // if (!checkPopupSubmission()) {
+//     document.getElementById('popup-overlay').style.display = 'block';
+//     document.getElementById('popup-content').style.display = 'block';
+//     // document.getElementById('download').addEventListener('click',function(){
+//          document.getElementById('email').value = "";
+//          document.getElementById('name').value ="";
+//     // });
+// // }
 
 

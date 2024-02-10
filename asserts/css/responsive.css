@@ -137,9 +137,12 @@
     .accountability,
     .plans,
     .pricing,
-    .matrix,
-    .reality {
+    .matrix {
         padding: 75px 0px;
+    }
+
+    .reality {
+        padding: 30px 0px 75px 0px;
     }
 
     .left_content p {
@@ -599,9 +602,12 @@
     .accountability,
     .plans,
     .pricing,
-    .matrix,
-    .reality {
+    .matrix {
         padding: 70px 0px;
+    }
+
+    .reality {
+        padding: 25px 0px 70px 0px;
     }
 
     .organized_inner .box:nth-child(2)::before,
@@ -859,9 +865,12 @@
     .accountability,
     .plans,
     .pricing,
-    .matrix,
-    .reality {
+    .matrix {
         padding: 66px 0px;
+    }
+
+    .reality {
+        padding: 20px 0px 66px 0px;
     }
 
     .matrix_inner .right form {
@@ -1036,9 +1045,12 @@
     .plans,
     .pricing,
     .matrix,
-    .reality,
     .stephen {
         padding: 55px 0px;
+    }
+
+    .reality {
+        padding: 18px 0px 55px 0px;
     }
 
     .reaching_inner .left .left_content,
@@ -1761,9 +1773,12 @@
     .plans,
     .pricing,
     .matrix,
-    .reality,
     .stephen {
         padding: 50px 0px;
+    }
+
+    .reality {
+        padding: 15px 0px 50px 0px;
     }
 
     .results .boxes {
@@ -2225,9 +2240,12 @@
     .plans,
     .pricing,
     .matrix,
-    .reality,
     .stephen {
         padding: 35px 0px;
+    }
+
+    .reality {
+        padding: 25px 0px 35px 0px;
     }
 
     .process-inner .boxes {
@@ -2835,6 +2853,10 @@
     .reality,
     .stephen {
         padding: 35px 0px;
+    }
+
+    .reality {
+        padding: 11px 0px 35px 0px;
     }
 
     .carity_inner {

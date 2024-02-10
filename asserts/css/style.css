@@ -369,6 +369,12 @@ header {
     padding: 12px 24px;
     width: 40.5%;
     text-align: center;
+    transition: 0.5s all;
+    cursor: default;
+}
+
+.reaching_inner .left .left_content:hover {
+    transform: scale(1.07);
 }
 
 .reaching_inner .left .left_content p {
@@ -1484,7 +1490,7 @@ header {
 /********************************* matrix *******************************/
 .matrix {
     background: #3F3F3F;
-    padding: 96px 0px 104px 0px;
+    padding: 96px 0px 130px 0px;
 }
 
 .matrix_inner {
@@ -1604,18 +1610,12 @@ header {
     font-style: italic;
     font-weight: 400;
     line-height: 28px;
-
-}
-
-/********************************* blank_section *******************************/
-.blank_section {
-    height: 1px !important;
 }
 
 /********************************* reality *******************************/
 .reality {
     background: #3F3F3F;
-    padding: 93px 0px;
+    padding: 0px 0px 93px 0px;
     text-align: center;
     margin-top: 0 !important;
 }
@@ -1665,3 +1665,115 @@ footer a {
 footer a img {
     width: 415px;
 }
+
+/********************************* lead form *******************************/
+/* .popup-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(5, 5, 5, 0.8);
+    z-index: 1000;
+}
+
+.popup-content {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ffffff;
+    padding: 45px 40px;
+    box-shadow: 0px -1px 16px #FFF;
+    z-index: 1001;
+    border-radius: 15px;
+    color: #1F211E;
+    text-align: center;
+    width: 50%;
+}
+
+.popup-content h2 {
+    font-size: 30px;
+    line-height: 32px;
+}
+
+.popup-content p {
+    margin-top: 7px;
+
+}
+
+.popup-content form {
+    display: flex;
+    flex-direction: column;
+    row-gap: 22px;
+    margin-top: 20px;
+}
+
+.popup-content form input {
+    border-radius: 50px;
+    border: 1.5px solid rgba(31, 33, 30, 0.25);
+    outline: none;
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    transition: 0.5s all;
+}
+
+.popup-content form input:focus {
+    border: 1.5px solid black;
+    border-radius: 8px;
+}
+
+.popup-content button {
+    margin-top: 14px;
+    display: flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+    background: #000;
+    width: 100%;
+    color: white;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.popup-content button:hover {
+    border-radius: 8px;
+}
+
+.close-btn {
+    position: absolute;
+    top: 17px;
+    right: 17px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 100px;
+    width: 34px;
+    height: 34px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s all;
+
+}
+
+.close-btn i {
+    font-size: 19px;
+}
+
+.close-btn:hover {
+    background-color: black;
+    border: 1px solid black;
+    color: white;
+} */
